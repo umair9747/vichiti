@@ -7,7 +7,7 @@
 </h2>
 
 <h1 align="center">
-<img src="vichiti.png" alt="output" height="300" width="600">
+<img src="vichiti.png" alt="output" height="300" width="500">
   </h1>
 
 <p align="left">
