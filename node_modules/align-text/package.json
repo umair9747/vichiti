@@ -1,0 +1,63 @@
+{
+  "name": "align-text",
+  "description": "Align the text in a string.",
+  "version": "1.0.2",
+  "homepage": "https://github.com/jonschlinkert/align-text",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Shinnosuke Watanabe (https://shinnn.github.io)"
+  ],
+  "repository": "jonschlinkert/align-text",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/align-text/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "kind-of": "^5.0.2",
+    "longest": "^2.0.1",
+    "repeat-string": "^1.6.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3",
+    "word-wrap": "^1.2.3"
+  },
+  "keywords": [
+    "align",
+    "align-center",
+    "alignment",
+    "center",
+    "center-align",
+    "indent",
+    "pad",
+    "padding",
+    "right",
+    "right-align",
+    "text",
+    "typography"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}

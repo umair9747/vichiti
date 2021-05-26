@@ -1,0 +1,24 @@
+{
+  "name": "user-instagram",
+  "version": "2.1.9",
+  "description": "Get user data and feed content by scraping Instagram's user page. No OAuth needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "Instagram",
+    "Instagram API",
+    "Instagram user",
+    "scrapping"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdouardCourty/user-instagram"
+  },
+  "author": "Edouard Courty",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}

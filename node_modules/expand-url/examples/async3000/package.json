@@ -1,0 +1,34 @@
+{
+  "name": "expand-url",
+  "description": "HTTP-Pool-enhanced URL expander for node.js",
+  "version": "0.1.0",
+  "author": "Tim Xia",
+  "main": "module.js",
+  "homepage": "https://github.com/ttback/node-expand-url",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ttback/node-expand-url.git"
+  },
+  "scripts": {
+    "test": "mocha test/test.js --require should --reporter=nyan --ui bdd"
+  },
+  "keywords": [
+    "unshortener",
+    "expand",
+    "url",
+    "LongUrl",
+    "url-expander",
+    "url-expand",
+    "expand-url"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.34.0",
+    "expand-url": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  },
+  "engine": "node"
+}

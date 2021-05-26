@@ -1,0 +1,33 @@
+{
+  "name": "country-data",
+  "version": "0.0.31",
+  "description": "Data about countries - like their ISO codes and currencies",
+  "homepage": "https://github.com/OpenBookPrices/country-data",
+  "bugs": {
+    "url": "https://github.com/OpenBookPrices/country-data/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenBookPrices/country-data.git"
+  },
+  "keywords": [
+    "data",
+    "country"
+  ],
+  "author": "Edmund von der Burg",
+  "license": "MIT",
+  "devDependencies": {
+    "canonical-json": "~0.0.4",
+    "csv": "~0.4",
+    "mocha": "~2.2",
+    "chai": ">1.8.1"
+  },
+  "dependencies": {
+    "underscore": ">1.4.4",
+    "currency-symbol-map": "~2"
+  }
+}

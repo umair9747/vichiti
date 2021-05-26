@@ -1,0 +1,36 @@
+{
+  "name": "vichiti",
+  "version": "1.0.0",
+  "description": "A OSINT based CLI tool made with Node.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OSINT",
+    "cybersecurity",
+    "infosec",
+    "informationsecurity",
+    "hacking"
+  ],
+  "author": "Umair Nehri",
+  "license": "ISC",
+  "dependencies": {
+    "align-text": "^1.0.2",
+    "colors": "^1.4.0",
+    "crypto-balances": "^2.1.3",
+    "email-existence": "^0.1.6",
+    "expand-url": "^0.1.3",
+    "figlet": "^1.5.0",
+    "geoip-lite": "^1.4.2",
+    "node-port-scanner": "^3.0.1",
+    "oui": "^11.0.68",
+    "prompt-sync": "^4.2.0",
+    "public-ip": "^4.0.3",
+    "request": "^2.88.2",
+    "safe-browse-url-lookup": "^0.1.1",
+    "save": "^2.4.0",
+    "user-instagram": "^2.1.9",
+    "whois": "^2.13.3"
+  }
+}

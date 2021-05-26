@@ -1,0 +1,33 @@
+{
+  "name": "node-port-scanner",
+  "version": "3.0.1",
+  "description": "Lean JavaScript port scanner for open/closed ports",
+  "keywords": [
+    "portscanner",
+    "portstatus",
+    "port",
+    "ports",
+    "scanner",
+    "open ports",
+    "closed ports",
+    "scan",
+    "scanports",
+    "port scanner"
+  ],
+  "main": "./src/node-port-scanner.js",
+  "scripts": {
+    "usage": "node src/usage.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beaudurrant/node-port-scanner.git"
+  },
+  "homepage": "https://github.com/beaudurrant/node-port-scanner",
+  "author": "Beau Durrant",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
