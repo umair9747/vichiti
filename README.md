@@ -32,3 +32,17 @@
 
 ✔ - Tested  <br/>
 ❔ - Not tested <br/>
+
+ <h2 align="left">
+  <b>Upcoming Features</b>
+ </h2>
+
+<p align="left">
+  <ul type="disc">
+    <li>Phone number lookup</li>
+    <li>Input using files</li>
+    <li>Twitter username lookup</li>
+    <li>Social media username finder</li>
+    <li><a href="https://haveibeenpwned.com/">haveibeenpwned</a> extension</li>
+  </ul>
+</p>
