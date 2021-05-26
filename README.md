@@ -85,3 +85,16 @@
     <li>Basic encoding/decoding</li>
   </ul>
 </p>
+
+ <h2 align="left">
+  <b>Wlling to contribute?</b>
+ </h2>
+
+<p align="left">
+  You can make a contribution to this repo by creating a pull request! Make sure you include the following details:
+  <ul type="disc">
+    <li> Feature introduced</li>
+    <li> What does the feature do? </li>
+    <li> List of External Modules/Packages if used </li>
+    </ul>
+  </p>
