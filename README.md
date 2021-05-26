@@ -87,7 +87,7 @@
 </p>
 
  <h2 align="left">
-  <b>Wlling to contribute?</b>
+  <b>Wlling to Contribute?</b>
  </h2>
 
 <p align="left">
@@ -96,5 +96,19 @@
     <li> Feature introduced</li>
     <li> What does the feature do? </li>
     <li> List of External Modules/Packages if used </li>
+    </ul>
+  </p>
+  
+  <h2 align="left">
+  <b>Reach Out!</b>
+ </h2>
+
+<p align="left">
+  You can contact me through the following handles:
+  <ul type="disc">
+    <li> Instagram - @umairnehri</li>
+    <li> Twitter - @0x9747</li>
+    <li> Discord - Umair#5710 </li>
+    <li> Email - 0x9778@protonmail.com </li>
     </ul>
   </p>
