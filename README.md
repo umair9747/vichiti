@@ -2,6 +2,10 @@
 <a href="https://github.com/umair9747/vichiti/"><img src="logo.png" alt="logo" height="200" width="500"></a>
 </h1>
 
+<h1 align="center">
+<img src="vichiti.png" alt="output" >
+  </h1>
+
 <h2 align="left">
   <b>About Vichiti</b>
 </h2>
