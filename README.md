@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0.-blue">
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac%20%7C%20termux-yellow">
   <img src="https://img.shields.io/badge/state-maintained-green">
-  <img src="https://img.shields.io/badge/Made%20in-India-orange">
+  <img src="https://img.shields.io/badge/Made%20in-India-%23138808">
 </h1>
 
 <h2 align="left">
