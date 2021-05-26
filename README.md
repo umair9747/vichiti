@@ -47,7 +47,8 @@
     <li>Make sure you have Nodejs installed on your system, which you can do by going to https://nodejs.org/en/download/</li>
     <li>Clone / Download the repository to your local machine and run the following commands:</li>
    </ul>
-   ```
+   
+   ```sh
    cd vichiti
    node index.js
    ```
