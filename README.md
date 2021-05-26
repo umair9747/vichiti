@@ -5,8 +5,11 @@
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac%20%7C%20termux-yellow">
   <img src="https://img.shields.io/badge/state-maintained-green">
   <img src="https://img.shields.io/badge/focus-OSINT-yellowgreen">
+  <img src="https://img.shields.io/github/repo-size/umair9747/vichiti?style=plastic">
+  <img src="https://img.shields.io/github/followers/umair9747?style=social">
+  <img src="https://img.shields.io/github/forks/umair9747/vichiti?style=social">
   <br>
-  <img src="https://img.shields.io/badge/Made%20in-India-%23138808">
+  <img src="https://img.shields.io/badge/made%20with%20%3C%2F%3E%20in%20-India-brightgreen">
 </h1>
 
 <h2 align="left">
