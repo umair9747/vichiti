@@ -21,3 +21,13 @@
     <li>Crypto wallet address's balance check</li>
     </ul>
  </p>
+ 
+ <h2 align="left">
+  <b>Support</b>
+ </h2>
+ 
+| Windows | Linux | Mac | Termux |
+| ------- | ----- | --- | ------ |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
