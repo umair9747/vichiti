@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20mac%20%7C%20termux-yellow">
   <img src="https://img.shields.io/badge/state-maintained-green">
   <img src="https://img.shields.io/badge/focus-OSINT-yellowgreen">
-  <img src="https://img.shields.io/github/repo-size/umair9747/vichiti?style=plastic">
   <img src="https://img.shields.io/github/followers/umair9747?style=social">
   <img src="https://img.shields.io/github/forks/umair9747/vichiti?style=social">
   <br>
