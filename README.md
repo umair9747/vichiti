@@ -1,5 +1,6 @@
 <h1 align="center">
 <a href="https://github.com/umair9747/vichiti/"><img src="logo.png" alt="logo" height="200" width="500"></a>
+  <img src="https://img.shields.io/badge/version-1.0.0.-blue">
 </h1>
 
 <h2 align="left">
