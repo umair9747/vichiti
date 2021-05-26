@@ -105,13 +105,10 @@
 
 <p align="left">
   You can contact me through the following handles:
-   ```sh
   <ul type="disc">
-    <li> Instagram - @umairnehri</li>
+    <li> <font color="red">Instagram</font> - @umairnehri</li>
     <li> Twitter - @0x9747</li>
     <li> Discord - Umair#5710 </li>
     <li> Email - 0x9778@protonmail.com </li>
     </ul>
-   ```
-
   </p>
