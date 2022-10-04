@@ -122,9 +122,9 @@
 <p align="left">
   You can contact me through the following handles:
   <ul type="disc">
-    <li> <b>Instagram</b> - @umairnehri</li>
-    <li> <b>Twitter</b> - @0x9747</li>
+    <li> <b>Instagram</b> - <a href="https://instagram.com/umairnehri">@umairnehri</a></li>
+    <li> <b>Twitter</b> - <a href="https://twitter.com/0x9747">@0x9747</a></li>
     <li> <b>Discord</b> - Umair#5710 </li>
-    <li> <b>Email</b> - 0x9778@protonmail.com </li>
+    <li> <b>Email</b> - <a href="mailto:0x9778@protonmail.com">0x9778@protonmail.com</a> </li>
     </ul>
   </p>
